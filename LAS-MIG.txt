@@ -1,0 +1,24 @@
+TREBORG BYGG – WEBBPLATS
+
+Den aktuella webbplatsen ligger i dist. Publicera allt innehåll i dist, med index.html och assets bredvid varandra. Äldre filer direkt i projektets rot tillhör en tidigare version och ingår inte i denna leverans.
+
+GITHUB PAGES
+Packa upp ZIP-filen och lägg allt innehåll i GitHub-repots rot. Behåll mapparna och filnamnen. Välj publicering från main och /(root) under Settings > Pages. Ingen installation eller byggprocess behövs.
+
+WEBBHOTELL
+Ladda upp allt innehåll i ZIP-filen till webbplatsens public_html. Ta först en säkerhetskopia av den befintliga webbplatsen. ZIP-filen har index.html direkt i roten.
+
+INNEHÅLL
+Startsida, tjänster, sju tjänstesidor, referenser med filtrerbart bildgalleri, The Edge, Om oss, kontakt, integritet och 404-sida. Bilder och typsnitt finns lokalt. Kontakt sker via telefon och e-post; mejlknapparna öppnar besökarens mejlprogram.
+
+SEO
+Separat titel och beskrivning per sida, indexerbar HTML-text, alt-texter, strukturerad företagsdata, brödsmulor, sitemap.xml och robots.txt. Canonical- och delningsadresser är inställda för https://www.treborgbygg.se/. Vid permanent publicering på en annan domän behöver dessa samt sitemap och robots uppdateras. Dessa åtgärder ger tekniska förutsättningar för sökbarhet, inte en garanterad ranking.
+
+OMDÖMEN
+Facebook visade 100 % rekommendationer baserat på 7 recensioner vid kontroll 19 november 2026. Ett namngivet kundcitat visas som utdrag med datum och källänk. Detta är en verifierad statisk presentation, inte en live-widget. Uppdatera siffran om den ändras.
+
+BILDER OCH UPPGIFTER
+Företagsuppgifter, logotyp och projektbilder kommer från Treborg Byggs webbplats. The Edge presenteras som medverkan på uppdrag av Peab. Ingen påhittad certifiering, garanti, svarstid eller recension har lagts till.
+
+KONTROLL
+Alla 16 HTML-filer har kontrollerats för lokala filreferenser och metadata. Samtliga sidtyper har granskats vid 360 px bredd. Mobilmeny, projektfilter, bildvisning, nästa bild och Escape-stängning har provats. Desktop och mobil har också granskats visuellt.
